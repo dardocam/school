@@ -1,0 +1,78 @@
+
+/* DECLARACION DE TIPOS DE LETRA */
+@font-face {
+  font-family: 'Varela';
+  src: url('./fonts/Varela-Regular.ttf');
+}
+* {
+  font-family: 'Varela';
+}
+.central {
+  border: 2px solid lightgrey;
+  border-radius: 20px;
+  width: 70vw;
+  height: 300px;
+
+  position: absolute;
+  top: 30px;
+  left: calc(100vw/2);
+  transform: translate(-50%,0%);
+  padding: 10px;
+  box-shadow: 5px 5px 10px;
+
+  background: white;
+}
+.fila {
+  width: 100%;
+  height: 100px;
+  /* background-color: rgba(255, 0, 0, 0.5); */
+}
+.col-25{
+  float: left;
+  width: 25%;
+  height: 100px;
+  /* background-color: rgba(150, 0, 0, 0.5); */
+}
+.col-75{
+  float: left;
+  width: 75%;
+  height: 100px;
+  /* background-color: rgba(10, 0, 0, 0.5); */
+}
+.submit {
+  position: relative;
+  left: calc(70vw/2);
+  top: 50px;
+  transform: translate(-50%,-50%);
+}
+label{
+  position: relative;
+  left:calc(25%/2);
+  top: calc(50px - 11px);
+  transform: translate(-50%,-50%);
+  font-size: 16px;
+}
+input{
+  position: relative;
+  left:10px;
+  top: 50px;
+  transform: translate(0%,-50%);
+
+  width: 80%;
+  height: 30px;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+input[type=submit]{
+  width: 40%;
+  border: none;
+  border-radius: 25px;
+  height: 50px;
+  background: lightgreen;
+  color: white;
+  font-size: 18px;
+}
+input[type=submit]:hover{
+  background: rgb(0,100,0);
+}
