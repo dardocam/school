@@ -3,6 +3,9 @@
 	<head>
 	  <?php
 	  	require_once('php/configuracion.php');
+			if(!isset($_SESSION)) {
+			  session_start();
+			}
 	  ?>
 	  <meta charset="utf-8">
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,8 +22,8 @@
 
 <!-- Html-open insertado con PHP --->
 <?php
-	if (isset($_SESSION['username'])) {
-		// code...
+	if (isset($_SESSION["username"])) {
+		require 'views/homeView.php';
 	}else{
 		require 'views/loginView.php';
 	}
