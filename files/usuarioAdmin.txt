@@ -1,1 +1,1 @@
-admin@admin.edu;user&Admin@01
+admin@admin.edu;123456
