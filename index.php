@@ -20,10 +20,10 @@
 <!-- Html-open insertado con PHP -->
 <?php
 	if (isset($_SESSION["username"])) {
-		echo	"<link rel='stylesheet' href=".HOME_URL.'css/home.css'." ?>";
+		echo	"<link rel='stylesheet' href=".HOME_URL."css/home.css />";
 		require 'views/homeView.php';
 	}else{
-		echo	"<link rel='stylesheet' href=".HOME_URL.'css/login.css'." ?>";
+		echo	"<link rel='stylesheet' href=".HOME_URL."css/login.css />";
 		require 'views/loginView.php';
 	}
 ?>
