@@ -1,1 +1,2 @@
-admin@admin.edu;123456
+admin@olimpiadas.neco;123456;1;
+encargado@olimpiadas.neco;encargado1234;0;

@@ -1,0 +1,15 @@
+.grid-container{
+  display: grid;
+  grid-template-columns: 30% 70%;
+  background-color: lightgrey;
+}
+
+.barraSuperior{
+  grid-column-start: 1;
+  grid-column-end: 3;
+  background-color: grey;
+}
+
+.leftMenu{
+  background-color: lightblue;
+}

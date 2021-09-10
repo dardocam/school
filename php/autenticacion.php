@@ -9,7 +9,7 @@ if ( isset($_POST['email']) && isset($_POST['password']) ) {
     header('Location: '.HOME_URL);
   }else{
     require_once '../views/errorAutenticacionView.php';
-  }  
+  }
 }
 
 
@@ -22,11 +22,18 @@ function autenticacion( $email , $passw ){
     $line = trim(fgets($fp));//obtiene la linea completa
     if($line){
       $vector = explode(';', $line);//crea un vector con los datos individualizados utilizando el separador
-      $registerEmail = $vector[0];
-      $registerPassw = $vector[1];
+      $registerEmail = (string)$vector[0];
+      $registerPassw = (string)$vector[1];
+      $admin         = (bool)$vector[2];
 
-      if ($email == $registerEmail && $passw == $registerPassw){
+      if ($email == $registerEmail && $passw == $registerPassw && $admin == true){
         $_SESSION["username"]= 'usuarioAdmin';
+        $_SESSION["admin"] = true;
+        return true;
+      }
+      if ($email == $registerEmail && $passw == $registerPassw && $admin == false){
+        $_SESSION["username"]= 'usuarioEncargado';
+        $_SESSION["admin"] = false;
         return true;
       }
     }

@@ -1,5 +1,5 @@
 <?php
-define('HOME_URL', "http://192.168.0.250/school/");
+define('HOME_URL', "https://eest3necochea-school.herokuapp.com/");
 
 if (!isset($_SESSION)) {
   session_name('school');
