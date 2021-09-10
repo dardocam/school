@@ -16,13 +16,11 @@
 
 	</head>
 	<body>
-<<<<<<< HEAD
-<h1>EEST N3 - APP USUARIOS</h1>
+
 <!-- Html-open insertado con PHP --->
-=======
 
 <!-- Html-open insertado con PHP -->
->>>>>>> f1a9d8ffbcd37022bfee34c995af8cd2040f695d
+
 <?php
 	if (isset($_SESSION["username"])) {
 		echo	"<link rel='stylesheet' href=".HOME_URL."css/home.css />";

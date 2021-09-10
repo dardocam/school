@@ -6,7 +6,7 @@
         <label for="iemail">Email:</label>
       </div>
       <div class="col-75">
-        <input type="email" id="iemail" name="email" required autofocus>
+        <input type="email" id="iemail" name="email" value="Ingresar email"required autofocus>
       </div>
     </div>
     <div class="fila">
