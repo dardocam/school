@@ -6,7 +6,7 @@
         <label for="iemail">Email:</label>
       </div>
       <div class="col-75">
-        <input type="email" id="iemail" name="email" value="Ingresar email"required autofocus>
+        <input type="email" id="iemail" name="email" value="Ingresar email" required autofocus>
       </div>
     </div>
     <div class="fila">
@@ -14,7 +14,7 @@
         <label for="ipassword">Password:</label>
       </div>
       <div class="col-75">
-        <input type="password" id="ipassword" name="password" required>
+        <input type="password" id="ipassword" name="password" value="Ingresar password" required>
       </div>
     </div>
     <div class="fila">
