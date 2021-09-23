@@ -9,8 +9,6 @@
 	  <meta http-equiv="x-ua-compatible" content="ie=edge">
 	  <meta name="description" content="Olimpiadas2021; Programación; EEST3NECOCHEA; Necochea; Aplicaciones Web's Dinámicas">
 	  <title>EEST N3 - NECOCHEA - PROYECTO WEB's DINAMICAS</title>
-	  <!-- Archivo de estilos para configurar valores iniciales -->
-	  <link rel="stylesheet" href="css/reset.css">
 	  <!-- Archivo de estilos CSS -->
 	  <link rel="stylesheet" href="css/index.css">
 
