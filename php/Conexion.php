@@ -22,8 +22,8 @@ $dbconn       = pg_connect($conn_string);
 //conectarse por el puerto 5432 a una base de datos llamada "test" en el
 //host "sheep" con el nombre de usuario y password
 
-//$result = pg_query($db_connection, "SELECT lastname FROM employees");
+$result = pg_query($db_connection, "SELECT * FROM comments");
 
-
+var_dump($result);
 
 ?>
