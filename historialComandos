@@ -1,0 +1,1000 @@
+ 1019  nano tracert 
+ 1020  ls
+ 1021  scp /home/dardo/Descargas/dbconfig.php leonela@192.168.0.250:/home/leonela
+ 1022  cd ~
+ 1023  ls
+ 1024  pwd
+ 1025  le
+ 1026  clear
+ 1027  ls
+ 1028  mkdir ariesgestion.xyz
+ 1029  su
+ 1030  ls
+ 1031  cd ariesgestion.xyz/
+ 1032  ls
+ 1033  su
+ 1034  ls -la
+ 1035  cd aries/
+ 1036  ls
+ 1037  cd aries/
+ 1038  su
+ 1039  ls
+ 1040  cd aries/
+ 1041  l
+ 1042  ls
+ 1043  mv * ~/ariesgestion.xyz/
+ 1044  ls
+ 1045  cd ..
+ 1046  ls
+ 1047  ls -la
+ 1048  rm aries
+ 1049  rm -r aries
+ 1050  ls
+ 1051  mv ariesf.tar /home/dardo/
+ 1052  ls
+ 1053  ls -la
+ 1054  ls
+ 1055  ls -la
+ 1056  cp /var/www/html/aries1.0/.htaccess ./
+ 1057  ls
+ 1058  ls -la
+ 1059  su
+ 1060  ls
+ 1061  rm *
+ 1062  rm -r *
+ 1063  ls
+ 1064  clear
+ 1065  ls
+ 1066  atom
+ 1067  cat -n logGet.txt 
+ 1068  apt search org.gnome.Shell.desktop
+ 1069  apt search hda_intel
+ 1070  apt search *hda_intel*
+ 1071  apt search codec intel
+ 1072  apt search codec intel hda
+ 1073  apt search intel hda
+ 1074  sudo gnome-logs 
+ 1075  ls -la
+ 1076  cat .ftpconfig 
+ 1077  exit
+ 1078  systemctl start ssh
+ 1079  scp
+ 1080  scp ariesgestion.xyz.zip leonela@192.168.0.250:/home/leonela
+ 1081  ssh leonela@192.168.0.250
+ 1082  exit
+ 1083  su
+ 1084  cd ..
+ 1085  scp AriesDataGeneral.zip leonela@192.168.0.250:/home/leonela
+ 1086  exit
+ 1087  cat test.ps 
+ 1088  ls
+ 1089  mkdir school
+ 1090  cd school/
+ 1091  ls
+ 1092  wget 192.168.0.250/school/index.php
+ 1093  nano /etc/hosts
+ 1094  clear
+ 1095  cd Documentos/data/
+ 1096  ls
+ 1097  su
+ 1098  clear
+ 1099  cd
+ 1100  ls
+ 1101  clear
+ 1102  wget 192.168.0.250/school
+ 1103  ls
+ 1104  cat index.html 
+ 1105  cat index.p
+ 1106  ls
+ 1107  clear
+ 1108  mkdir school
+ 1109  cd school/
+ 1110  ls
+ 1111  clear
+ 1112  wget 192.168.0.250/school
+ 1113  ls
+ 1114  cat school 
+ 1115  wget 192.168.0.250/school
+ 1116  cat school.1 
+ 1117  ls
+ 1118  clear
+ 1119  wget 192.168.0.250/schoolss
+ 1120  wget 192.168.0.250/school/index.php
+ 1121  ls
+ 1122  rm school
+ 1123  rm school.1 
+ 1124  ls
+ 1125  cat index.php 
+ 1126  cel
+ 1127  clear
+ 1128  ls
+ 1129  nano index.php 
+ 1130  nano git
+ 1131  ls
+ 1132  rm index.php 
+ 1133  ls
+ 1134  ls -la
+ 1135  clear
+ 1136  scp
+ 1137  rm git 
+ 1138  ls
+ 1139  clear
+ 1140  wget 192.168.0.250/school
+ 1141  wget 192.168.0.250/school/index.php
+ 1142  cat index.php 
+ 1143  nano index.php 
+ 1144  exit
+ 1145  scp Varela-Regular.ttf leonela@192.168.0.250:/home/leonela
+ 1146  ssh leonela@192.168.0.250
+ 1147  clear
+ 1148  ls
+ 1149  cd ..
+ 1150  cd 
+ 1151  ls
+ 1152  clear
+ 1153  history |grep ssh
+ 1154  ssh leonela@192.168.0.250
+ 1155  s
+ 1156  ssh leonela@192.168.0.250
+ 1157  cd sh
+ 1158  school/
+ 1159  ls
+ 1160  cd school/
+ 1161  ls
+ 1162  clear
+ 1163  cat index.php 
+ 1164  clear
+ 1165  nano index.php 
+ 1166  ls
+ 1167  firefox index.php
+ 1168  firefox 192.168.0.250/school/index.php
+ 1169  git status
+ 1170  ls
+ 1171  atom ./
+ 1172  ls
+ 1173  clear
+ 1174  ls
+ 1175  ssh leonela@192.168.0.250
+ 1176  ls
+ 1177  git init
+ 1178  git status
+ 1179  git add .
+ 1180  git status --ignored
+ 1181  ls
+ 1182  git status
+ 1183  cp .ftpconfig .ftpconfig.bk
+ 1184  rm .ftpconfig
+ 1185  git status
+ 1186  git status
+ 1187  find / -iname .ftpconfig.bk
+ 1188  nano heroku
+ 1189  cat heroku 
+ 1190  cd data/
+ 1191  su
+ 1192  clear
+ 1193  cat data
+ 1194  su
+ 1195  exit
+ 1196  wget https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
+ 1197  cat index.html.1 
+ 1198  clear
+ 1199  atom index.html.1 
+ 1200  atom
+ 1201  cd data/
+ 1202  su
+ 1203  cd Documentos/
+ 1204  ls
+ 1205  cd data/
+ 1206  su
+ 1207  exit
+ 1208  cd Documentos/data/
+ 1209  su
+ 1210  df
+ 1211  cd /var/
+ 1212  ls
+ 1213  cd tmp/
+ 1214  ls
+ 1215  df 
+ 1216  df /var/
+ 1217  su
+ 1218  df
+ 1219  /sbin/fdisk -l /dev/sda5
+ 1220  sudo /sbin/fdisk -l /dev/sda5
+ 1221  cd /dev/sda5/
+ 1222  cd ..
+ 1223  ls
+ 1224  su
+ 1225  du
+ 1226  ls
+ 1227  clear
+ 1228  du -h
+ 1229  clear
+ 1230  du -h /var/
+ 1231  du --help
+ 1232  du -c /var/
+ 1233  cd cache/
+ 1234  ls
+ 1235  du
+ 1236  ls
+ 1237  ls -la
+ 1238  cd apt
+ 1239  ls
+ 1240  cd archives/
+ 1241  ls
+ 1242  cd Documentos/
+ 1243  cd data/
+ 1244  su
+ 1245  exit
+ 1246  mv explosion-slider-css.png /var/www/html/dwCss/
+ 1247  cd ..
+ 1248  atom ariesgestion.xyz/
+ 1249  cd /var/www/html/
+ 1250  ls
+ 1251  su
+ 1252  ls -lar
+ 1253  chmod -R 664 dwCss/
+ 1254  sudo chmod -R 664 dwCss/
+ 1255  sudo chmod dardo:dardo dwCss/
+ 1256  sudo chown dardo:dardo dwCss/
+ 1257  ls -lar
+ 1258  cd dwCss/
+ 1259  ls
+ 1260  cd dwCss/
+ 1261  su
+ 1262  ls
+ 1263  cd dwCss/
+ 1264  cd mvc-php
+ 1265  cd ..
+ 1266  ls -lar
+ 1267  sudo chmod -R 666 dwCss/
+ 1268  ls -lar
+ 1269  cd dwCss/
+ 1270  su
+ 1271  cd dwCss/
+ 1272  ls
+ 1273  cd dwCss/
+ 1274  ls -lar
+ 1275  sudo rmdir dwCss/
+ 1276  mkdir dwCss
+ 1277  cd ..
+ 1278  ls -lar
+ 1279  ls
+ 1280  cd html/
+ 1281  su
+ 1282  ls -lar
+ 1283  sudo chmod -R 777 dwCss/
+ 1284  clear
+ 1285  cd ~
+ 1286  cd Documentos/data/
+ 1287  su
+ 1288  ps -aux
+ 1289  ps -a
+ 1290  ps -au
+ 1291  sudo chmod -R 666 dwCss/ 
+ 1292  ps -au
+ 1293  atom dwCss/
+ 1294  ps -au
+ 1295  sudo systemctl start apache2
+ 1296  clear
+ 1297  cd w
+ 1298  cd dwCss/
+ 1299  firefox index.html 
+ 1300  cd Documentos/data
+ 1301  su
+ 1302  cd Documentos/data/
+ 1303  cat mi
+ 1304  su
+ 1305  cd Documentos/
+ 1306  cd data/
+ 1307  su
+ 1308  cec-
+ 1309  clear
+ 1310  history 
+ 1311  cd Documentos/
+ 1312  cd data/
+ 1313  su
+ 1314  cd Documentos/
+ 1315  cd data/
+ 1316  su
+ 1317  ping www.google.com
+ 1318  git
+ 1319  ls
+ 1320  mkdir delete
+ 1321  cd delete/
+ 1322  git clone
+ 1323  gh repo clone dardocam/school
+ 1324  git repo clone dardocam/school
+ 1325  git clone dardocam/school
+ 1326  git
+ 1327  git clone
+ 1328  gh
+ 1329  git clone https://github.com/dardocam/school.git
+ 1330  ls
+ 1331  cd school/
+ 1332  ls
+ 1333  cd ..
+ 1334  rmdir school/
+ 1335  rmdir -f school/
+ 1336  rmdir -r school/
+ 1337  rmd -r school/
+ 1338  rm -r school/
+ 1339  ls
+ 1340  cdc.
+ 1341  cd ..
+ 1342  su
+ 1343  ls
+ 1344  cd Documentos/
+ 1345  ls
+ 1346  mkdir delete
+ 1347  cd d
+ 1348  cd delete/
+ 1349  git clone https://github.com/dardocam/school.git
+ 1350  cd school/
+ 1351  ls
+ 1352  git
+ 1353  su
+ 1354  cd /var/www/html/
+ 1355  ls
+ 1356  clear
+ 1357  git clone https://github.com/dardocam/school.git
+ 1358  su
+ 1359  ls
+ 1360  sudo chmod 777 -R school/ 
+ 1361  cd school/
+ 1362  ls
+ 1363  cd php/
+ 1364  ls
+ 1365  nano configuracion.php 
+ 1366  ip a
+ 1367  ls
+ 1368  cd school/
+ 1369  ls
+ 1370  cd css
+ 1371  ls
+ 1372  atom login.css 
+ 1373  cd ..
+ 1374  ls
+ 1375  cat index.php 
+ 1376  ip a
+ 1377  nmap 10.0.10.0/20
+ 1378  screendump 
+ 1379  su
+ 1380  ip a
+ 1381  nano /etc/apt/sources.list
+ 1382  sudo nano /etc/apt/sources.list
+ 1383  cd ..
+ 1384  atom school/
+ 1385  ls
+ 1386  cd git/
+ 1387  git show -a
+ 1388  git status -a
+ 1389  git status -v
+ 1390  ls
+ 1391  git status
+ 1392  git branch v
+ 1393  git branch v.10
+ 1394  git branch v.1
+ 1395  su
+ 1396  exit
+ 1397  git
+ 1398  ls
+ 1399  su
+ 1400  df
+ 1401  sy
+ 1402  su
+ 1403  clear
+ 1404  su
+ 1405  hashrat 
+ 1406  hashid
+ 1407  hashid df
+ 1408  clear
+ 1409  openssl genrsa -out hash1.key 2048
+ 1410  cat hash1.key 
+ 1411  hashid hash1.key 
+ 1412  openssl -1 -out h2.key 2048
+ 1413  openssl rsa -text -in hash1.key 
+ 1414  cl
+ 1415  /sbin/ifconfig 
+ 1416  /sbin/ifconfig -a
+ 1417  /sbin/ifconfig --help
+ 1418  /sbin/ifconfig -aV
+ 1419  /sbin/ifconfig -av
+ 1420  /sbin/ifconfig -v
+ 1421  su
+ 1422  wireshark 
+ 1423  nmap
+ 1424  clear
+ 1425  hash
+ 1426  apt search jhon
+ 1427  apt search jhonn*
+ 1428  apt search hash
+ 1429  apt search hashid
+ 1430  apt search bc
+ 1431  apt search 'bc'
+ 1432  su
+ 1433  clear
+ 1434  bc -h
+ 1435  bc    00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:
+ 1436  nano
+ 1437  atom
+ 1438  bc -h
+ 1439  bc modulus 
+ 1440  atom modulus 
+ 1441  00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad
+ 1442  tr '\n' ' ' < modulus 
+ 1443  tr '\n' ' ' < modulus | bc
+ 1444  clear
+ 1445  bc 00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a
+ 1446  tr '\n' ' ' < modulus >> modulus
+ 1447  bc mo
+ 1448  bc modulus 
+ 1449  atom modulus 
+ 1450  nano modulus 
+ 1451  rm modulus 
+ 1452  nano modulus
+ 1453  tr '\n' ' ' < modulus > modulus
+ 1454  nano modulus
+ 1455  tr '\n' ' ' < modulus > modulus1
+ 1456  cat modulus1
+ 1457  nano modulus1
+ 1458  tr '     ' < modulus1 > modulus2
+ 1459  tr '     ' '' < modulus1 > modulus2
+ 1460  tr
+ 1461  tr -h
+ 1462  tr --help
+ 1463  nano modulus1
+ 1464  atom modulus1
+ 1465  gedit modulus1
+ 1466  bc modulus1
+ 1467  gedit modulus1
+ 1468  cat modulus1
+ 1469  bc --help
+ 1470  bc -s 00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4b:15:1d:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad
+ 1471  bc  00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4b:15:1d:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad
+ 1472  bc 7e
+ 1473  clear
+ 1474  00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4b:15:1d:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad | bc
+ 1475  echo 00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4b:15:1d:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad | bc
+ 1476  echo "00:d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4b:15:1d:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad" | bc
+ 1477  echo "d8:10:66:46:1c:83:50:56:aa:79:b3:db:64:4a:15:78:30:18:9f:28:bd:26:4d:7c:67:d1:64:13:9a:97:ce:14:2b:21:f5:9f:a7:95:ef:8a:d7:fa:19:19:63:7f:be:ae:5e:0f:28:8b:27:7d:8d:cf:03:53:68:32:0c:dd:31:43:a2:06:7b:55:06:21:6b:65:ed:8d:e3:37:de:88:a4:2d:b9:85:8c:d9:7b:9a:20:cf:41:e5:d8:da:d4:11:b2:8d:e3:36:a1:5b:e5:40:20:fc:31:c8:a6:36:15:63:22:df:cb:1e:c5:07:25:a5:65:bb:ee:09:3e:d6:36:96:16:9e:27:6d:0f:32:4f:56:c4:03:76:1e:11:81:c1:74:63:6f:b2:bd:e4:07:0a:f8:c2:a2:44:b7:00:e0:58:5f:b1:c5:9b:ce:6d:ac:26:4b:15:1d:c1:34:49:39:9d:29:05:dc:60:6f:7b:b8:b5:61:08:43:09:89:2a:6c:95:a1:f1:8c:c1:f5:6c:e5:93:a3:23:4d:74:ba:06:02:df:97:28:63:92:67:94:b3:c0:9d:86:e2:d4:af:54:9a:a5:47:95:f3:4a:12:54:47:19:44:3a:dc:3c:f7:0a:29:79:ff:f2:3c:0b:ef:0d:61:a9:59:39:90:30:ed:c2:98:f0:7e:2f:ad" | bc
+ 1478  nano modulus
+ 1479  . modulus
+ 1480  wireshark 
+ 1481  su
+ 1482  wireshark 
+ 1483  /sbin/ifconfig 
+ 1484  scp capturaHandshakeDebian.pcapng dardo@192.168.0.103
+ 1485  scp capturaHandshakeDebian.pcapng dardo@192.168.0.103:/home/dardo
+ 1486  nano /etc/dhcp/dhclient.conf 
+ 1487  ip a
+ 1488  su
+ 1489  gedit redAdHoc 
+ 1490  /etc/init.d/networking restart
+ 1491  /sbin/ifconfig 
+ 1492  gedit /etc/network/interfaces
+ 1493  sudo gedit /etc/network/interfaces
+ 1494  ip a
+ 1495  /etc/init.d/networking restart
+ 1496  su
+ 1497  /etc/init.d/networking restart
+ 1498  /sbin/ifconfig 
+ 1499  ip 
+ 1500  ip a
+ 1501  ip a wls1
+ 1502  ip wls1
+ 1503  ip -a
+ 1504  iw
+ 1505  apt search iw
+ 1506  apt search iw | grep iw
+ 1507  clear
+ 1508  /sbin/iw
+ 1509  /sbin/iw wls1 info
+ 1510  command 
+ 1511  comman
+ 1512  command -v hostapd dnsmasq iptables ip
+ 1513  iptables
+ 1514  /sbin/iptables
+ 1515  /sbin/iwconfig 
+ 1516  /sbin/ifconfig 
+ 1517  /sbin/iwconfig 
+ 1518  ip a
+ 1519  /sbin/ifconfig wls1 down
+ 1520  su
+ 1521  ip a
+ 1522  /sbin/route
+ 1523  ip a
+ 1524  su
+ 1525  gedit /etc/network/interfaces
+ 1526  /sbin/ifconfig 
+ 1527  /etc/init.d/networking restart
+ 1528  gnome-control-center 
+ 1529  su
+ 1530  /sbin/ifconfig 
+ 1531  systemctl status wls1
+ 1532  systemctl status networking
+ 1533  nano /etc/network/interfaces
+ 1534  su
+ 1535  apt search hostapd
+ 1536  su
+ 1537  gnome-
+ 1538  nm-connection-editor 
+ 1539  nm
+ 1540  nm --help
+ 1541  nm-online 
+ 1542  nm-connection-editor 
+ 1543  sudo nm-connection-editor 
+ 1544  /sbin/ifconfig 
+ 1545  sudo nm-connection-editor 
+ 1546  /sbin/ifconfig 
+ 1547  ls
+ 1548  nano redAdHoc 
+ 1549  nm-connection-editor 
+ 1550  ping www.google.com
+ 1551  su
+ 1552  ip a
+ 1553  su
+ 1554  ip a
+ 1555  ip route
+ 1556  su
+ 1557  sudo nano arduino.php 
+ 1558  sudo nano arduino.php 
+ 1559  su
+ 1560  atom /var/www/html/aries1.0/helpers/Helpers.php 
+ 1561  atom /var/www/html/olimpo/arduino.php 
+ 1562  ip a
+ 1563  ping 192.168.0.250
+ 1564  su
+ 1565  ls -l
+ 1566  su
+ 1567  atom vistas/screenView.php 
+ 1568  wget http://localhost/olimpo/api.php
+ 1569  cat logGet.txt 
+ 1570  atom arduino.php 
+ 1571  cat logGet.txt 
+ 1572  atom arduino.php 
+ 1573  cat logGet.txt 
+ 1574  cat logGet.txt 7
+ 1575  cat logGet.txt
+ 1576  atom arduino.php 
+ 1577  cat logGet.txt
+ 1578  dw | cat logGet.txt
+ 1579  cat logGet.txt
+ 1580  su
+ 1581  cat logGet.txt
+ 1582  su
+ 1583  cat logGet.txt
+ 1584  cat log.txt
+ 1585  ls -la
+ 1586  su
+ 1587  ls -la
+ 1588  su
+ 1589  ls -la
+ 1590  cat log.txt
+ 1591  su
+ 1592  ip a
+ 1593  systemctl start apache2
+ 1594  systemctl stop apache2
+ 1595  systemctl start apache2
+ 1596  wget http://localhost/olimpo/arduino.php?local=L1&sensor=INwget
+ 1597  wget "http://localhost/olimpo/arduino.php?local=L1&sensor=INwget"
+ 1598  systemctl start apache2
+ 1599  cat /etc/network/interfaces
+ 1600  su
+ 1601  arduino olimpiadas-cov/olimpiadas-cov.ino 
+ 1602  pwd
+ 1603  ls -la olimpiadas-cov/
+ 1604  cd olimpiadas-cov/
+ 1605  ls
+ 1606  ca dardo@192.168.0.107 
+ 1607  cat dardo@192.168.0.107 
+ 1608  cat olimpiadas-cov.ino 
+ 1609  arduino
+ 1610  su
+ 1611  atom codigoArduino 
+ 1612  . install.sh 
+ 1613  . arduino-linux-setup.sh 
+ 1614  ls
+ 1615  . arduino
+ 1616  su
+ 1617  ls -la
+ 1618  git status
+ 1619  git add.
+ 1620  git add .
+ 1621  git status
+ 1622  ip a
+ 1623  su
+ 1624  cd /var/www/html/school/
+ 1625  clear
+ 1626  ls
+ 1627  git status
+ 1628  git commit -m 'update'
+ 1629  git status
+ 1630  git add .
+ 1631  git commit -m 'update apiSucursal1.php'
+ 1632  git status
+ 1633  cd /var/www/html/olimpo/
+ 1634  ls
+ 1635  git init
+ 1636  git add .
+ 1637  git status
+ 1638  git branch 
+ 1639  git branch main
+ 1640  git
+ 1641  git branch main
+ 1642  git branch master
+ 1643  git branch v1.0
+ 1644  git branch -M main
+ 1645  git init
+ 1646  git add .
+ 1647  git branch -M main
+ 1648  git status
+ 1649  git commit -m "first commit"
+ 1650  git branch -M main
+ 1651  git status
+ 1652  ls -la
+ 1653  touch log.txt
+ 1654  ls -la
+ 1655  su
+ 1656  ls -la
+ 1657  cat log.txt
+ 1658  sudo nano /etc/network/interfaces
+ 1659  /sbin/reboot 
+ 1660  su
+ 1661  atom
+ 1662  systemctl start apache2
+ 1663  systemctl stop apache2
+ 1664  nm-connection-editor 
+ 1665  ps kill firefox
+ 1666  ps -a
+ 1667  ping 192.168.5.10
+ 1668  nmap
+ 1669  nmap 192.168.5.0
+ 1670  nmap 192.168.5.0/24
+ 1671  systemctl start apache2
+ 1672  nmap 192.168.5.0/24
+ 1673  nmap 192.168.5.0/24 --dns-servers
+ 1674  nmap 192.168.5.0/24 --system-dns
+ 1675  cd /var/www/html/
+ 1676  ls
+ 1677  nano index.php 
+ 1678  sudo nano index.php 
+ 1679  wget http://localhost/
+ 1680  wget http://localhost/index.php
+ 1681  su
+ 1682  wget http://localhost/index.php
+ 1683  nano /etc/apt/sources.list
+ 1684  wget 192.168.5.10
+ 1685  wget 192.168.5.10:7911
+ 1686  nm-connection-editor 
+ 1687  curl "www.google.com"
+ 1688  curl "http://www.google.com"
+ 1689  curl
+ 1690  curl --help
+ 1691  curl -G "http://www.google.com"
+ 1692  systemctl start apache2
+ 1693  curl -G "http://localhost"
+ 1694  ls
+ 1695  cat redAdHoc 
+ 1696  cd /var/www/html/
+ 1697  ls
+ 1698  cd school/
+ 1699  ls
+ 1700  cd files/
+ 1701  cd ..
+ 1702  cd php/
+ 1703  cat configuracion.php 
+ 1704  cd ..
+ 1705  ls
+ 1706  git status
+ 1707  cd ..
+ 1708  ls
+ 1709  cd usuarios/
+ 1710  ls
+ 1711  cd ..
+ 1712  ls
+ 1713  su
+ 1714  iwcon
+ 1715  iwconfig
+ 1716  /sbin/iwconfig
+ 1717  ip a
+ 1718  cat /etc/networks 
+ 1719  find -h
+ 1720  find --help
+ 1721  find ipv4
+ 1722  find . ipv4
+ 1723  clear
+ 1724  find .-name ipv4
+ 1725  grep --help
+ 1726  man find
+ 1727  clear
+ 1728  find / -name ipv4
+ 1729  man find
+ 1730  find / -type d  -name ipv4
+ 1731  sudo find / -type d  -name ipv4
+ 1732  clear
+ 1733  cp /etc/network/interfaces /etc/network/interfaces.bk
+ 1734  sudo cp /etc/network/interfaces /etc/network/interfaces.bk
+ 1735  sudo nano /etc/network/interfaces 
+ 1736  cat /etc/network/interfaces 
+ 1737  su
+ 1738  cd /usr/lib/modules/4.19.0-17-amd64/kernel/net/ipv4/
+ 1739  ls
+ 1740  cat ip_tunnel.ko 
+ 1741  clear
+ 1742  cd /
+ 1743  cd ~
+ 1744  cat /proc/sys/net/ipv4/ip_forward
+ 1745  /sbin/ifconfig 
+ 1746  sudo nano /etc/network/interfaces
+ 1747  su
+ 1748  ip a
+ 1749  nmap 192.168.0.0/24
+ 1750  ping 192.168.0.104
+ 1751  clear
+ 1752  apt search cups
+ 1753  sudo apt-get install cups cups-pdf cups-client
+ 1754  clear
+ 1755  nmap 192.168.0.0/24
+ 1756  nmap -nP192.168.0.0/24
+ 1757  nmap -nP 192.168.0.0/24
+ 1758  nmap -Pn 192.168.0.0/24
+ 1759  ping 192.168.0.101
+ 1760  nmap -sP 192.168.0.1/24
+ 1761  nmap -sP 192.168.0.0/24
+ 1762  su
+ 1763  nmap -sP 192.168.0.0/24
+ 1764  sudo cp -R ariesgestion.xyz/ /var/www/html/
+ 1765  cd /var/www/html/ariesgestion.xyz/
+ 1766  composer
+ 1767  composer dump-autoload
+ 1768  ls
+ 1769  cat index.php 
+ 1770  cat composer.json 
+ 1771  composer run
+ 1772  composer update
+ 1773  cd ..
+ 1774  su
+ 1775  cd ariesgestion.xyz/
+ 1776  composer update
+ 1777  composer dump-autoload
+ 1778  ls -la
+ 1779  cat .htaccess 
+ 1780  su
+ 1781  composer init
+ 1782  composer dumpautoload
+ 1783  su
+ 1784  su
+ 1785  cd /usr/share/phpmyadmin/
+ 1786  ls
+ 1787  cat index.php 
+ 1788  atmo index.php 
+ 1789  atom index.php 
+ 1790  ls
+ 1791  cd vendor/
+ 1792  ls
+ 1793  cd phpmyadmin/
+ 1794  ls
+ 1795  cd ..
+ 1796  cat RE
+ 1797  cat README 
+ 1798  ls
+ 1799  atom user_password.php 
+ 1800  atom url.php 
+ 1801  atom index.php 
+ 1802  find / -type -d -name phpmyadmin
+ 1803  find / -type d -name phpmyadmin
+ 1804  sudo find / -type d -name phpmyadmin
+ 1805  find / -type d -name phpmyadmin
+ 1806  su
+ 1807  cd /var/www/html/
+ 1808  ls
+ 1809  cd school/
+ 1810  ls
+ 1811  ls -la
+ 1812  git status
+ 1813  cat index.php 
+ 1814  atom index.php 
+ 1815  cat index.php 
+ 1816  git status
+ 1817  ls
+ 1818  cd php
+ 1819  ls
+ 1820  atom configuracion.php |
+ 1821  atom configuracion.php 
+ 1822  git status
+ 1823  git add .
+ 1824  git commit -a
+ 1825  git commit -m 'HOME_URL update for heroku'
+ 1826  git commit -a 'HOME_URL update for heroku'
+ 1827  git commit a 'HOME_URL update for heroku'
+ 1828  git status
+ 1829  git commit -a "heroku "
+ 1830  git commit -m "heroku home"
+ 1831  git push
+ 1832  ls
+ 1833  cd ..
+ 1834  ls
+ 1835  clear
+ 1836  git add .
+ 1837  git commit -m "heroku home"
+ 1838  git push
+ 1839  git push -u origin main
+ 1840  git remote add origin https://github.com/dardocam/eest3necochea-school
+ 1841  git push -u origin main
+ 1842  clear
+ 1843  git remote add origin https://github.com/dardocam/school.git
+ 1844  git status
+ 1845  git branch -M main
+ 1846  git remote add origin https://github.com/dardocam/school.git
+ 1847  git push -u origin main
+ 1848  git status
+ 1849  git
+ 1850  git status
+ 1851  git add .
+ 1852  git status
+ 1853  git merge
+ 1854  git checkout
+ 1855  git log
+ 1856  git
+ 1857  git show
+ 1858  git push -u origin main
+ 1859  ping 192.168.0.250
+ 1860  /sbin/ifconfig 
+ 1861  ping 192.168.0.250
+ 1862  atom
+ 1863  nm-connection-editor 
+ 1864  arp
+ 1865  /sbin/arp
+ 1866  nm-connection-editor 
+ 1867  ls
+ 1868  mkdir test
+ 1869  cd test
+ 1870  git clone https://github.com/dardocam/test.git
+ 1871  ls
+ 1872  cd test/
+ 1873  ls
+ 1874  echo "hola mundo" >> index.php
+ 1875  git init
+ 1876  git status
+ 1877  git add .
+ 1878  git status
+ 1879  git commit -m "first
+ 1880  "
+ 1881  git status
+ 1882  git push
+ 1883  nm-connection-editor 
+ 1884  ifconfig
+ 1885  /sbin/ifconfig 
+ 1886  ping www.google.co
+ 1887  ping www.google.com
+ 1888  /sbin/ifconfig 
+ 1889  nm-connection-editor 
+ 1890  /sbin/ifconfig 
+ 1891  sudo nano /etc/network/interfaces
+ 1892  /sbin/ifconfig
+ 1893  nano /etc/network/interfaces
+ 1894  arp
+ 1895  /sbin/ar
+ 1896  /sbin/arp
+ 1897  nm-connection-editor 
+ 1898  ping 192.168.80.250
+ 1899  nm-connection-editor 
+ 1900  ping 192.168.80.250
+ 1901  nmap 192.168.80.250
+ 1902  nmap localhost
+ 1903  netstat 
+ 1904  netstat -tuna
+ 1905  nmap localhost
+ 1906  nmap localhost --dns-servers
+ 1907  nmap --dns-servers localhost 
+ 1908  nmap -Ps localhost 
+ 1909  nmap -Pn localhost 
+ 1910  cd /var/www/html/
+ 1911  l
+ 1912  ls
+ 1913  atom index.php 
+ 1914  systemctl start apache2
+ 1915  nmap localhost
+ 1916  curl localhost
+ 1917  wireshark 
+ 1918  cd school/
+ 1919  ls
+ 1920  git status
+ 1921  cd ..
+ 1922  atom school/
+ 1923  cd school/
+ 1924  ls
+ 1925  git status
+ 1926  git add .
+ 1927  git commit -a
+ 1928  git commit -m 'testeando'
+ 1929  git push -u origin main
+ 1930  git remote add origin https://github.com/dardocam/school.git
+ 1931  git branch -M main
+ 1932  git status
+ 1933  git push
+ 1934  git
+ 1935  git pull
+ 1936  git fetch
+ 1937  git pull
+ 1938  git merge
+ 1939  git add .
+ 1940  git pull
+ 1941  git commit -m 'test'
+ 1942  git pull
+ 1943  git status
+ 1944  git push -u origin main
+ 1945  git status
+ 1946  git add .
+ 1947  git commit -m 'now'
+ 1948  git push
+ 1949  git pull
+ 1950  clear
+ 1951  ls
+ 1952  git add .
+ 1953  git commit -m "mensaje nuevo"
+ 1954  git push
+ 1955  git pull
+ 1956  ping www.google.com
+ 1957  nm-connection-editor 
+ 1958  su
+ 1959  ip a
+ 1960  /sbin/ifconfig 
+ 1961  ip a
+ 1962  ping www.google.com
+ 1963  su
+ 1964  ip a
+ 1965  su
+ 1966  ip a
+ 1967  su
+ 1968  ping 192.168.1.1
+ 1969  ping 192.168.1.2
+ 1970  ping 192.168.1.1
+ 1971  wget 192.168.1.1
+ 1972  ip a
+ 1973  su
+ 1974  ping www.google.com
+ 1975  su
+ 1976  ip a
+ 1977  su
+ 1978  ifconfig 
+ 1979  ping www.google.com
+ 1980  ip reoute
+ 1981  ip route
+ 1982  ip a
+ 1983  ping 192.168.50.1
+ 1984  ip route
+ 1985  ip a
+ 1986  ifconfig ens5f5 192.168.0.254/24
+ 1987  ifconfig ens5f5 192.168.0.160/24
+ 1988  sudo ifconfig ens5f5 192.168.0.160/24
+ 1989  ifconfig
+ 1990  su
+ 1991  cd /var/www/html/
+ 1992  ls
+ 1993  atom dwCss/
+ 1994  sudo systemctl start apache2
+ 1995  ls
+ 1996  atom index.php 
+ 1997  nano archivo.txt
+ 1998  sudo nano archivo.txt
+ 1999  cat archivo.txt 
+ 2000  apt search psql
+ 2001  apt search heroku
+ 2002  curl https://cli-assets.heroku.com/install-debian.sh | sh
+ 2003  curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+ 2004  heroku
+ 2005  heroku status
+ 2006  ls
+ 2007  cd school/
+ 2008  ls
+ 2009  heroku status
+ 2010  git status
+ 2011  clear
+ 2012  heroku login
+ 2013  browser
+ 2014  heroku login
+ 2015  heroku pg:psql postgresql-concave-21459 --app springboot-deploy-test
+ 2016  heroku pg:psql postgresql-concave-17821 --app eest3necochea-school
+ 2017  history
+ 2018  history >> historialComandos
