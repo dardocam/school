@@ -11,7 +11,7 @@
       <p>Sucursal - 1</p>
       <button type="button" onclick="loadDataLocal(1)">Local N1 - ajax</button>
 
-      <form action="php/apiSucursal1.php" method="get">
+      <form action="php/Conexion.php" method="post">
         <input type="hidden" name="id" value="1">
         <button type="submit">Local N1 - php</button>
       </form>
@@ -19,7 +19,7 @@
       <button type="button" onclick="cargarDatos()">Local N3</button>
     </div>
 
-    
+
     <div>
       <p>Sucursal - 2</p>
       <button type="button" onclick="cargarDatos()">Local N1</button>
