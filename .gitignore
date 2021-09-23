@@ -1,2 +1,4 @@
 .ftpconfig
+.ftpignore
+/unload
 historialComandos
