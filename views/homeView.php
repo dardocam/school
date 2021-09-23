@@ -9,7 +9,7 @@
   <div class="leftMenu">
     <div>
       <p>Datos tabla comments</p>
-      <form action="php/Conexion.php" method="get">
+      <form action="./index.php" method="get">
         <input type="hidden" name="id" value="1">
         <button type="submit">LISTAR TODO</button>
       </form>
@@ -26,5 +26,5 @@
       }
     ?>
   </div>
-  
+
 </div>
