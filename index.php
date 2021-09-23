@@ -10,9 +10,9 @@
 	  <meta name="description" content="Olimpiadas2021; Programación; EEST3NECOCHEA; Necochea; Aplicaciones Web's Dinámicas">
 	  <title>EEST N3 - OLIMPIADAS DE PROGRAMACION 2021 - NECOCHEA</title>
 	  <!-- Archivo de estilos para configurar valores iniciales -->
-	  <link rel="stylesheet" href=<?= HOME_URL."css/reset.css"?>>
+	  <link rel="stylesheet" href="css/reset.css">
 	  <!-- Archivo de estilos CSS -->
-	  <link rel="stylesheet" href=<?= HOME_URL."css/index.css" ?>>
+	  <link rel="stylesheet" href="css/index.css">
 
 	</head>
 	<body>
@@ -23,10 +23,10 @@
 
 <?php
 	if (isset($_SESSION["username"])) {
-		echo	"<link rel='stylesheet' href=".HOME_URL."css/home.css />";
+		echo	"<link rel='stylesheet' href='css/home.css' />";
 		require 'views/homeView.php';
 	}else{
-		echo	"<link rel='stylesheet' href=".HOME_URL."css/login.css />";
+		echo	"<link rel='stylesheet' href='css/login.css' />";
 		require 'views/loginView.php';
 	}
 ?>

@@ -1,2 +1,3 @@
 admin@olimpiadas.neco;123456;1;
 encargado@olimpiadas.neco;encargado1234;0;
+dardo@dardo;dardo;1;

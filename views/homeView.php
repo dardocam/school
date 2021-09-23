@@ -13,7 +13,7 @@
 
       <form action="php/Conexion.php" method="post">
         <input type="hidden" name="id" value="1">
-        <button type="submit">Local N1 - php</button>
+        <button type="submit">BASE</button>
       </form>
 
       <button type="button" onclick="cargarDatos()">Local N3</button>
