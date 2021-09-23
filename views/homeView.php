@@ -1,36 +1,30 @@
 
 <div class="grid-container">
+
   <div class="barraSuperior">
     <h1>HOME PAGE</h1>
     <p><?= $_SESSION['username'] ?><a href="php/logout.php">Salir</a></p>
-
   </div>
+
   <div class="leftMenu">
-
     <div>
-      <p>Sucursal - 1</p>
-      <button type="button" onclick="loadDataLocal(1)">Local N1 - ajax</button>
-
-      <form action="php/Conexion.php" method="post">
+      <p>Datos tabla comments</p>
+      <form action="php/Conexion.php" method="get">
         <input type="hidden" name="id" value="1">
-        <button type="submit">BASE</button>
+        <button type="submit">LISTAR TODO</button>
       </form>
-
-      <button type="button" onclick="cargarDatos()">Local N3</button>
-    </div>
-
-
-    <div>
-      <p>Sucursal - 2</p>
-      <button type="button" onclick="cargarDatos()">Local N1</button>
-      <button type="button" onclick="cargarDatos()">Local N2</button>
-      <button type="button" onclick="cargarDatos()">Local N3</button>
     </div>
   </div>
+
   <div id="content" class="content">
-    <?php if (isset($_SESSION['data'])) {
-        var_dump($_SESSION['data']);
-    }
+    <?php
+      if (isset($_GET['id'])) {
+        require 'php/Conexion.php';
+        $resultado = DbConnect();
+        echo "<pre>";
+        var_dump($resultado);
+      }
     ?>
   </div>
+  
 </div>
