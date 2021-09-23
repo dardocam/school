@@ -23,6 +23,7 @@ $dbconn       = pg_connect($conn_string);
 //host "sheep" con el nombre de usuario y password
 if ($dbconn) {
   $result = pg_query($dbconn, "SELECT * FROM comments");
+  echo "<pre>";
   while ($row = pg_fetch_row($result)) {
     var_dump($row);
 }
