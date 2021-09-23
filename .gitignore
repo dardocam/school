@@ -1,5 +1,14 @@
-.ftpconfig
-.ftpignore
-/unload
+
 historialComandos
 bk/
+.ftpconfig
+.ftpconfig.cson
+.ftpignore
+id_rsa
+.DS_Store
+.git
+.gitignore
+
+/.git
+bk/
+.git/
