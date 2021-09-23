@@ -17,21 +17,19 @@
 	</head>
 	<body>
 
-<!-- Html-open insertado con PHP --->
+			<!-- Html-open insertado con PHP --->
+			<?php
+				if (isset($_SESSION["username"])) {
+					echo	"<link rel='stylesheet' href='css/home.css' />";
+					require 'views/homeView.php';
+				}else{
+					echo	"<link rel='stylesheet' href='css/login.css' />";
+					require 'views/loginView.php';
+				}
+			?>
+			<!-- Html-closed insertado con PHP -->
 
-<?php
-	if (isset($_SESSION["username"])) {
-		echo	"<link rel='stylesheet' href='css/home.css' />";
-		require 'views/homeView.php';
-	}else{
-		echo	"<link rel='stylesheet' href='css/login.css' />";
-		require 'views/loginView.php';
-	}
-?>
-<!-- Html-closed insertado con PHP -->
-
-
-<!-- Javascript -->
-	<script type="text/javascript" src="js/app.js"></script>
 	</body>
+	<!-- Javascript -->
+	<script type="text/javascript" src="js/app.js"></script>
 </html>
