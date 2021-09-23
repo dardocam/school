@@ -3,7 +3,8 @@
 
   <div class="barraSuperior">
     <h1>HOME PAGE</h1>
-    <p><?= $_SESSION['username'] ?><a href="php/logout.php">Salir</a></p>
+    <p><?= $_SESSION['username'] ?></p>
+    <a href="php/logout.php">Salir</a>
   </div>
 
   <div class="leftMenu">

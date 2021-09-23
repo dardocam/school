@@ -8,7 +8,7 @@
 	  <meta name="viewport" content="width=device-width, initial-scale=1">
 	  <meta http-equiv="x-ua-compatible" content="ie=edge">
 	  <meta name="description" content="Olimpiadas2021; Programación; EEST3NECOCHEA; Necochea; Aplicaciones Web's Dinámicas">
-	  <title>EEST N3 - OLIMPIADAS DE PROGRAMACION 2021 - NECOCHEA</title>
+	  <title>EEST N3 - NECOCHEA - PROYECTO WEB's DINAMICAS</title>
 	  <!-- Archivo de estilos para configurar valores iniciales -->
 	  <link rel="stylesheet" href="css/reset.css">
 	  <!-- Archivo de estilos CSS -->
@@ -18,8 +18,6 @@
 	<body>
 
 <!-- Html-open insertado con PHP --->
-
-<!-- Html-open insertado con PHP -->
 
 <?php
 	if (isset($_SESSION["username"])) {
@@ -31,6 +29,8 @@
 	}
 ?>
 <!-- Html-closed insertado con PHP -->
+
+
 <!-- Javascript -->
 	<script type="text/javascript" src="js/app.js"></script>
 	</body>
