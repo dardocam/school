@@ -5,5 +5,7 @@ id_rsa
 .DS_Store
 .git
 .gitignore
-/unload
+
 /.git
+bk/
+.git/
